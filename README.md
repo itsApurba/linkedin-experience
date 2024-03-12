@@ -1,4 +1,4 @@
-# Company People 🏢👥
+# Linkedin Experience 🏢👥
 
 ## Installation 🚀
 
