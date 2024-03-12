@@ -59,7 +59,7 @@ npm i
 
 ### 2. Adding the links
 
-- Add the links the links variable in the `main.js` file.
+- Add the all the links to `startUrls` variable in the `main.js` file.
 - Use [https://arraythis.com](https://arraythis.com/) to convert multiple links as an array.
 
 ### Run the Script ▶️
